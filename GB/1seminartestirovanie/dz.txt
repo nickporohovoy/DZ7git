@@ -1,0 +1,7 @@
+Задача 1 : res = n // 100 + n % 100 // 10 + n % 10
+
+Задача 2 : print(n // 3 // 2, n // 3 * 2, n // 3 // 2)
+
+Задача 3 : print("yes" if sum(list(map(int, str(n // 1000)))) == sum(list(map(int, str(n % 1000)))) else "no")
+
+Задача 4: print("yes" if (c // a <= b or c // b <= a) and c <= a * b else "no")
